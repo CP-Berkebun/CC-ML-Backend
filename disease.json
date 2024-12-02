@@ -1,0 +1,324 @@
+[
+  {
+    "plant": "apel_busuk_hitam",
+    "tumbuhan": "Apel",
+    "penyakit_id": "Busuk Hitam",
+    "deskripsi": "Busuk hitam disebabkan oleh jamur Botryosphaeria obtusa (Schwein). Penyakit ini sering kali menjadi masalah bagi petani apel karena dapat merusak buah, cabang, dan daun pohon apel. Selain itu, busuk hitam juga dapat menyerang bagian cabang dan ranting, yang akan terlihat dengan adanya bercak gelap atau bahkan pembusukan pada bagian tersebut.\n\nPenyebaran penyakit ini dapat terjadi melalui spora yang dibawa oleh angin atau hujan, serta melalui kontak langsung dengan bagian tanaman yang terinfeksi. Kondisi yang lembab dan suhu yang moderat mendukung perkembangan jamur penyebab penyakit ini.",
+    "treatment": "Pangkas dan buang bagian yang terinfeksi untuk mencegah penyebaran. Semprotkan fungisida seperti captan atau mancozeb. Pastikan pohon mendapatkan ventilasi udara yang baik."
+  },
+  {
+    "plant": "apel_sehat",
+    "tumbuhan": "Apel",
+    "penyakit_id": "Sehat",
+    "deskripsi": "Pohon apel dalam kondisi sehat menunjukkan pertumbuhan optimal, daun hijau segar, dan buah tanpa tanda-tanda kerusakan atau infeksi. Perawatan yang baik seperti pemangkasan, pemupukan, dan penyiraman yang cukup penting untuk menjaga kesehatan pohon.",
+    "treatment": "Lakukan pemupukan rutin dan penyiraman sesuai kebutuhan. Periksa secara berkala untuk mendeteksi gejala awal penyakit. Gunakan pestisida preventif jika diperlukan."
+  },
+  {
+    "plant": "apel_karat",
+    "tumbuhan": "Apel",
+    "penyakit_id": "Karat",
+    "deskripsi": "Karat pada apel disebabkan oleh jamur Gymnosporangium. Penyakit ini menyebabkan munculnya bercak oranye atau kuning pada daun dan kadang-kadang pada buah. Penyakit ini sering melibatkan inang alternatif seperti juniper untuk siklus hidupnya.",
+    "treatment": "Semprotkan fungisida berbasis sulfur pada daun yang terkena. Pangkas daun yang parah untuk mencegah penyebaran. Hindari kelembapan berlebih di sekitar tanaman."
+  },
+  {
+    "plant": "apel_keropos",
+    "tumbuhan": "Apel",
+    "penyakit_id": "Keropos",
+    "deskripsi": "Keropos pada apel disebabkan oleh jamur Venturia inaequalis. Gejala termasuk bercak hijau zaitun pada daun dan buah, yang kemudian berubah menjadi hitam. Penyakit ini dapat mengurangi kualitas buah dan hasil panen.",
+    "treatment": "Gunakan fungisida seperti mancozeb pada tahap awal infeksi. Pangkas daun yang terinfeksi dan tingkatkan drainase tanah. Tanam varietas apel tahan penyakit untuk mencegah infeksi ulang"
+  },
+  {
+    "plant": "singkong_hawar_bakteri",
+    "tumbuhan": "Singkong",
+    "penyakit_id": "Hawar Bakteri",
+    "deskripsi": "Hawar Bakteri adalah penyakit pada tumbuhan Singkong yang ditandai dengan daun yang hawar, layu, mati pucuknya, dan nekrosis pada jaringan pembuluh. Diawali dengan bintik-bintik coklat yang tersebar kemudian menyatu, mematikan seluruh daun. Area yang luka menghasilkan getah melalui urat daun dan sekitarnya.\n\nPenyakit ini disebabkan oleh bakteri Xanthomonas axonopodis yang disebarkan melalui angin, percikan hujan, alat bercocok tanam yang terkontaminasi, hingga transfer oleh hewan. Infeksi biasa terjadi selama 12 jam dengan keadaan lembab di suhu sejuk, 22-30�C.",
+    "treatment": "Potong tanaman yang terinfeksi jika sudah menunjukan gejala penyakit, periksa alat-alat dan faktor lainnya yang menyebarkan bakteri. Bakar tanaman yang sudah terinfeksi berat, dapat diganti dengan varietas yang sudah tahan dari penyakit terkait."
+  },
+  {
+    "plant": "singkong_virus_garis_coklat",
+    "tumbuhan": "Singkong",
+    "penyakit_id": "Virus Garis Coklat",
+    "deskripsi": "Bercak Daun Coklat adalah penyakit pada tumbuhan Singkong yang ditandai dengan klorosis dan nekrosis parah pada daun yang terinfeksi, sehingga daun tampak kekuningan dan berbintik-bintik lalu garis-garis coklat pada batang. Pada kondisi tertentu, akar umbi dapat terinfeksi dengan adanya nekrotik kering yang terus berkembang hingga seluruh akar.\n\nPenyakit ini disebabkan oleh virus CBSV (Cassava Brown Streak Virus) yang disebarkan oleh Bemisia tabaci biotype B atau biasa disebut lalat buah daun keperakan. Telur lalat seringkali diletakan di bawah daun singkong, mereka juga mengkonsumsi floem daun dengan memasukkan mulutnya ke dalam daun dan disitulah penyebaran virus terjadi.",
+    "treatment": "Belum ditemukan pestisida atau penangkal virus CBSV, tebang-bakar area yang terinfeksi virus ini. Daerah yang sudah disterilisasi dapat ditanam dengan varietas yang sudah kebal dari virus terkait."
+  },
+  {
+    "plant": "singkong_bintik_hijau",
+    "tumbuhan": "Singkong",
+    "penyakit_id": "Bintik Hijau",
+    "deskripsi": "Bintik Hijau adalah penyakit pada tumbuhan Singkong yang ditandai dengan bintik-bintik hijau atau bercak kuning pada daun, pertumbuhan daun yang terhambat, dan dalam kasus yang sudah parah tanaman dapat mati jika sudah terinfeksi.\n\nPenyakit ini disebabkan oleh virus CGMV (Cassava Green Mottle Virus) yang disebarkan oleh lalat putih. Lalat putih seringkali berkembang biak pada daun singkong dan mengkonsumsi daun singkong, disitulah penyebaran virus terjadi.",
+    "treatment": "Kendalikan hama yang menyerang tanaman dan menyebarkan virus CGMV karena belum ditemukan pestisida untuk virus tersebut. Segera singkirkan tanaman yang sudah terinfeksi dan tanam varietas singkong yang tahan dari penyakit."
+  },
+  {
+    "plant": "singkong_sehat",
+    "tumbuhan": "Singkong",
+    "penyakit_id": "Sehat",
+    "deskripsi": "Daun singkong sehat memiliki warna hijau segar dan permukaan daun yang halus tanpa bercak cokelat atau kuning. Daunnya terlihat tegak dengan tangkai daun yang kuat. Tidak ada daun yang menguning sebelum waktunya, serta tidak ada tanda-tanda kerusakan akibat hama seperti ulat atau kutu.",
+    "treatment": "Tanam di tanah gembur dengan pH netral, siram cukup tanpa membuat tanah tergenang. Lakukan pemupukan organik saat usia 4 minggu. Kendalikan gulma secara manual, dan pantau hama menggunakan pestisida nabati. Pangkas daun tua atau yang terlihat rusak agar energi tanaman terfokus ke umbi."
+  },
+  {
+    "plant": "singkong_penyakit_mosaik",
+    "tumbuhan": "Singkong",
+    "penyakit_id": "Penyakit Mosaik",
+    "deskripsi": "Penyakit Mosaik adalah penyakit pada tumbuhan Singkong yang ditandai dengan pola mosaik yang terbentuk pada daun, diikuti dengan bintik-bintik yang terus menyebar. Klorosis terjadi pada daun-daun yang terinfeksi menyebabkan bercak kuning. Semakin parah infeksi, pertumbuhan seluruh tanaman akan terganggu.\n\nPenyakit ini disebabkan oleh berbagai virus mosaik yang dapat ditularkan melalui angin, kutu kebul Bemisia tabaci, hingga penularan pada saat tanaman menjalani proses stek. Kutu kebul cenderung menyerang jaringan muda tanaman, sehingga tanaman muda lebih rentan terhadap penyakit ini.",
+    "treatment": "dan pimetrozin dengan takaran yang wajar untuk membasmi hama yang menyebarkan virus mosaik. Jika tanaman sudah terinfeksi, buang dan bakar tanaman tersebut."
+  },
+  {
+    "plant": "anggur_campak_hitam",
+    "tumbuhan": "Anggur",
+    "penyakit_id": "Campak Hitam",
+    "deskripsi": "Campak hitam, juga dikenal sebagai Esca, adalah penyakit kompleks yang disebabkan oleh jamur Phaeomoniella chlamydospora dan Phaeoacremonium spp.. Gejala meliputi bercak coklat-hitam pada daun dan buah anggur, yang dapat menyebabkan buah menjadi tidak layak konsumsi.",
+    "treatment": "Pangkas bagian kayu yang menunjukkan tanda-tanda infeksi. Gunakan fungisida khusus untuk black measles jika diperlukan. Jaga kebersihan kebun untuk mengurangi risiko infeksi ulang."
+  },
+  {
+    "plant": "anggur_busuk_hitam",
+    "tumbuhan": "Anggur",
+    "penyakit_id": "Busuk Hitam",
+    "deskripsi": "Busuk hitam disebabkan oleh jamur Guignardia bidwellii. Penyakit ini menyerang daun, batang, dan buah anggur dengan gejala bercak coklat gelap yang dikelilingi tepi kuning. Pada buah, infeksi menyebabkan kerutan dan pengeringan.",
+    "treatment": "Semprotkan fungisida seperti myclobutanil atau mancozeb pada tahap awal. Buang buah dan daun yang terinfeksi dari kebun. Tingkatkan sirkulasi udara dengan memangkas tanaman yang terlalu rapat."
+  },
+  {
+    "plant": "anggur_sehat",
+    "tumbuhan": "Anggur",
+    "penyakit_id": "Sehat",
+    "deskripsi": "Tanaman anggur yang sehat memiliki daun hijau segar, batang yang kuat, dan buah yang bebas dari noda atau kerusakan. Perawatan rutin seperti penyemprotan fungisida, pemangkasan, dan pengendalian gulma membantu menjaga kesehatan tanaman.",
+    "treatment": "Rawat rutin dengan pemupukan dan pengairan yang cukup. Periksa tanaman secara berkala untuk gejala penyakit. Jaga kebersihan kebun untuk menghindari hama dan patogen."
+  },
+  {
+    "plant": "anggur_hawar_daun",
+    "tumbuhan": "Anggur",
+    "penyakit_id": "Hawar Daun (Bercak Daun Isariopsis)",
+    "deskripsi": "Penyakit ini disebabkan oleh jamur Isariopsis griseola. Gejala utama adalah bercak coklat atau hitam pada daun, yang sering kali berbentuk tidak beraturan. Infeksi berat dapat menyebabkan daun gugur lebih awal, mengurangi hasil panen.",
+    "treatment": "Gunakan fungisida seperti copper oxychloride atau chlorothalonil pada daun yang terinfeksi. Buang daun yang parah untuk mengurangi penyebaran. Hindari penyiraman dari atas untuk menjaga daun tetap kering."
+  },
+  {
+    "plant": "kentang_hawar_awal",
+    "tumbuhan": "Kentang",
+    "penyakit_id": "Hawar Awal",
+    "deskripsi": "Hawar awal pada kentang disebabkan oleh jamur Alternaria solani. Penyakit ini, yang juga dikenal sebagai target spot, jarang memengaruhi tanaman muda yang tumbuh dengan subur. Gejala penyakit biasanya ditemukan pertama kali pada daun tua. Hawar awal lebih sering terjadi pada suhu hangat dan kelembapan tinggi.\n\nBercak dimulai sebagai flek kecil, gelap, kering, dan seperti kertas, yang kemudian membesar menjadi area berbentuk lingkaran atau oval berwarna cokelat hitam. Tepi bercak sering kali terangkat dan berwarna ungu hingga abu-abu logam gelap. Saat umbi dipotong, daging di bawah bercak biasanya berwarna cokelat, kering, dan memiliki tekstur seperti kulit atau gabus. Saat penyakit berkembang, daging kentang sering menjadi lembab dan berwarna kuning hingga hijau kekuningan. Bercak hawar awal cenderung tidak membusuk akibat organisme sekunder dibandingkan dengan jenis busuk umbi lainnya.",
+    "treatment": "Pengendalian Kultur\n- Tutupi tanah di sekitar tanaman dengan mulsa, seperti jerami, plastik mulsa, atau daun kering.\n- Siram tanaman pada pangkalnya, hindari penyiraman daun. Gunakan sistem irigasi tetes, selang soaker, atau siram dengan hati-hati.\n- Pasang tiang panjat atau teralis, singkirkan gulma, dan beri jarak tanam yang cukup.\n- Pangkas daun bagian bawah untuk mencegah spora jamur menyebar dari tanah ke daun.\n- Jangan menanam kentang di lokasi yang sama selama dua tahun berturut-turut.\n\nPengendalian Fisik\n- Buang daun yang terinfeksi dan kubur atau bakar. Jika Anda memilih untuk menguburnya, pastikan kompos Anda dikelola dengan baik.\n- Cuci tangan setelah menyentuh tanaman yang terinfeksi. Sanitasi alat pemangkasan setelah digunakan.\n- Anda dapat memangkas hingga sepertiga dari daun tanaman jika penyakit terdeteksi dini. Jangan memangkas lebih dari itu.\n- Jaga agar daun tetap kering untuk mengurangi penyebaran penyakit."
+  },
+  {
+    "plant": "kentang_hawar_akhir",
+    "tumbuhan": "Kentang",
+    "penyakit_id": "Hawar Akhir",
+    "deskripsi": "Hawar akhir pada kentang adalah penyakit serius yang disebabkan oleh Phytophthora infestans. Penyakit ini sering terjadi pada cuaca dingin dan lembab serta dapat membunuh tanaman dalam waktu dua minggu jika kondisinya mendukung. Bercak pada daun dimulai sebagai bercak kecil berwarna hijau pucat hingga hijau gelap dengan bentuk tidak beraturan.\n\nPada varietas kentang yang rentan, umbi juga dapat terinfeksi. Bercak kecil hingga besar yang sedikit cekung dengan kulit berwarna cokelat hingga ungu terlihat di bagian luar umbi. Saat umbi dipotong, terdapat area busuk kering berwarna cokelat kecokelatan dengan tekstur berbutir, yang menjalar ke dalam umbi sekitar �\" hingga �\". Batas area ini tidak jelas. Jika kentang disimpan di bawah kondisi hangat atau lembab, pembusukan akan terus berlanjut, sering kali disertai organisme pembusuk sekunder yang dapat menghancurkan umbi sepenuhnya.",
+    "treatment": "Pilih jenis kentang yang lebih kuat terhadap penyakit.\nBuang tanaman yang terinfeksi, gunakan benih sehat, dan bersihkan area tanam.\nJaga jarak tanam agar udara lancar dan hindari penyiraman daun.\nPanen kentang setelah 2-3 minggu setelah pemotongan daun untuk mengurangi risiko infeksi.\nGunakan fungisida saat penyakit mulai muncul atau sebagai pencegahan. \nFungisida seperti mancozeb, chlorothalonil, dan propineb dapat digunakan sebagai pencegahan sebelum gejala muncul.\nFungisida seperti mancozeb, chlorothalonil, dan propineb dapat digunakan sebagai pencegahan sebelum gejala muncul."
+  },
+  {
+    "plant": "kentang_sehat",
+    "tumbuhan": "Kentang",
+    "penyakit_id": "Sehat",
+    "deskripsi": "Tanaman kentang yang sehat umumnya memiliki batang dan daun yang berwarna hijau kemerahan atau ungu. Daunnya tumbuh rimbun dengan bentuk oval hingga agak bulat. Ciri khas lainnya adalah permukaan daun yang berkerut-kerut dan terdapat bulu halus pada bagian bawahnya. Ukuran daunnya cenderung sedang dengan tangkai yang tidak terlalu panjang.",
+    "treatment": "Gunakan benih unggul, tanam di lahan berdrainase baik, beri pupuk seimbang, dan lakukan penyiraman secukupnya. Jaga kebersihan lahan, awasi hama/penyakit, serta lakukan penyiangan dan rotasi tanaman rutin"
+  },
+  {
+    "plant": "padi_bintik_coklat",
+    "tumbuhan": "Padi",
+    "penyakit_id": "Bintik Coklat",
+    "deskripsi": "Bintik coklat pada padi disebabkan oleh jamur Bipolaris oryzae. Gejalanya meliputi bercak coklat kecil pada daun dan kadang-kadang pada biji padi. Penyakit ini dapat mengurangi kualitas hasil panen terutama jika menyerang biji.",
+    "treatment": "Semprotkan fungisida berbasis tembaga pada daun yang terinfeksi. Gunakan pupuk yang mengandung kalium untuk meningkatkan ketahanan tanaman. Pastikan tanaman mendapatkan pengairan yang cukup."
+  },
+  {
+    "plant": "padi_sehat",
+    "tumbuhan": "Padi",
+    "penyakit_id": "Sehat",
+    "deskripsi": "Tanaman padi yang sehat memiliki daun hijau segar, batang yang kuat, dan butir padi yang berkembang dengan baik. Perawatan yang baik, termasuk irigasi yang cukup, pemupukan seimbang, dan pengendalian hama, penting untuk menjaga kesehatan tanaman.",
+    "treatment": "Periksa secara rutin untuk mendeteksi gejala penyakit. Gunakan pupuk nitrogen dan fosfor dalam jumlah seimbang. Jaga kebersihan sawah dari gulma dan hama"
+  },
+  {
+    "plant": "padi_hispa",
+    "tumbuhan": "Padi",
+    "penyakit_id": "Hispa",
+    "deskripsi": "Hispa adalah hama yang disebabkan oleh serangga Dicladispa armigera. Serangga ini memakan lapisan daun, meninggalkan pola bergaris putih atau transparan. Infestasi parah dapat mengurangi kapasitas fotosintesis tanaman",
+    "treatment": "Gunakan insektisida seperti karbofuran untuk mengendalikan serangga hispa. Pangkas daun yang rusak berat untuk mencegah penyebaran. Lakukan rotasi tanaman untuk memutus siklus hidup hama"
+  },
+  {
+    "plant": "padi_blas_daun",
+    "tumbuhan": "Padi",
+    "penyakit_id": "Blas Daun",
+    "deskripsi": "Blas daun disebabkan oleh jamur Magnaporthe oryzae. Gejalanya berupa bercak berbentuk berlian berwarna coklat keabu-abuan pada daun, yang dapat meluas dan menyebabkan daun mengering. Penyakit ini menyebar lebih cepat dalam kondisi lembap",
+    "treatment": "Semprotkan fungisida sistemik seperti triazole pada fase awal infeksi. Hindari penggunaan pupuk nitrogen berlebih untuk mencegah penyebaran. Tingkatkan ventilasi dengan pengaturan jarak tanam yang baik."
+  },
+  {
+    "plant": "padi_blas_leher",
+    "tumbuhan": "Padi",
+    "penyakit_id": "Blas Leher",
+    "deskripsi": "Blas leher adalah stadium lanjut dari leaf blast yang menyerang bagian leher malai. Infeksi ini dapat menyebabkan malai patah atau gabah tidak terisi, yang secara signifikan mengurangi hasil panen.",
+    "treatment": "Gunakan fungisida sistemik seperti azoxystrobin untuk mencegah infeksi lebih lanjut. Pastikan tanaman tidak kekurangan air saat fase berbunga. Lakukan pengawasan intensif pada masa kritis untuk mendeteksi gejala awal."
+  },
+  {
+    "plant": "tebu_hawar_bakteri",
+    "tumbuhan": "Tebu",
+    "penyakit_id": "Hawar bakteri",
+    "deskripsi": "Penyakit ini disebabkan oleh bakteri yang menyukai kelembapan tinggi dan suhu panas. Penyakit ini sebagian besar terjadi pada daun muda dan setengah tua. Garis-garis panjang, sempit, seragam, dan berwarna hijau berair pertama kali muncul di dekat tulang daun tengah dan pangkal helaian daun. Pada tahap selanjutnya, garis-garis ini menyebar ke seluruh daun, bergabung, dan berubah menjadi warna merah muda terang lalu merah gelap (nekrotik). Daun layu, membusuk, dan mengeluarkan bau yang menyengat serta tidak sedap. Ketika pembusukan menyebar ke batang, rongga besar terbentuk di dalam ruas-ruas batang. Pada tahap lanjut, pucuk dan bunga sering kali patah dan jatuh ke tanah, gejala ini disebut top rot.\n\nPenularan primer terjadi melalui tanah dan setek yang terinfeksi, sedangkan penularan sekunder terjadi melalui udara, percikan hujan, dan tanah.",
+    "treatment": "Untuk menghindari infeksi awal, benih dapat direndam dalam fungisida yang sesuai selama 15-20 menit.\nPilih varietas yang resisten terhadap penyakit bakteri dan gunakan benih yang sehat\nLakukan rotasi tanaman dengan tanaman hijau.\nPerbaiki sistem drainase untuk mengurangi kelembaban tanah.\nBerikan pupuk nitrogen dalam jumlah yang tepat."
+  },
+  {
+    "plant": "tebu_sehat",
+    "tumbuhan": "Tebu",
+    "penyakit_id": "Sehat",
+    "deskripsi": "Tanaman tebu yang sehat umumnya memiliki batang yang kokoh, tinggi, dan berwarna cerah sesuai varietasnya. Ruas-ruas batang terisi penuh tanpa cacat. Daunnya lebar, hijau segar, dan tidak berlubang atau menggulung. Akarnya kuat dan menyebar luas. Pertumbuhannya merata dan cepat, tanpa adanya daun yang menguning atau layu.",
+    "treatment": "Untuk menjaga tanaman tebu tetap sehat, gunakan bibit berkualitas, tanam di tanah subur dengan drainase baik, dan beri pupuk kaya nitrogen, fosfor, serta kalium secara berkala. Lakukan irigasi teratur sesuai kebutuhan, kendalikan gulma, dan awasi hama/penyakit seperti penggerek batang. Terapkan rotasi tanaman untuk menjaga kesuburan tanah dan cegah penumpukan patogen."
+  },
+  {
+    "plant": "tebu_busuk_merah",
+    "tumbuhan": "Tebu",
+    "penyakit_id": "Busuk merah",
+    "deskripsi": "Busuk merah (penting di Indonesia dan Asia Selatan) ditandai dengan bercak-bercak merah dan putih yang terputus-putus di dalam batang tebu disertai bau asam alkohol saat tebu dibelah. Disebabkan oleh jamur Colletotrichum falcatum ( Glomerella tucumanensis )",
+    "treatment": "Metode Kultur\nPilih varietas yang rentan dan bibit yang sehat dan bebas penyakit.\nRotasikan lahan dengan padi selama satu musim dan tanaman lain selama dua musim.\n\nMetode Fisik\nSegera cabut dan buang bagian yang terinfeksi.\nRendam ujung-ujung set dan seluruh set dalam larutan fungisida seperti campuran Bordeaux 1%.\nKumpulkan dan bakar daun dan batang yang terinfeksi.\n\nMetode Kimia\nRendam set dalam larutan Carbendazim 50 WP (0,5 gram dalam 1 liter air) atau Carbendazim 25 DS (1 gram dalam 1 liter air) bersama dengan 2,5 kg Urea dalam 250 liter air sebelum tanam.\nGunakan fungisida seperti Bavistan, Benomyl, Topsin, dan Aretan dengan konsentrasi 0,1% selama 18 menit pada suhu 52�C untuk merendam set, yang dapat menghilangkan hampir semua infeksi busuk."
+  },
+  {
+    "plant": "tebu_garis_merah",
+    "tumbuhan": "Tebu",
+    "penyakit_id": "Garis Merah",
+    "deskripsi": "Garis merah meriupakan penyakit yang disebabkan oleh bakteri Pseudomonas Rubrilineans. Penyakit ini pertama kali muncul di bagian dasar daun muda. Garis-garis muncul sebagai bercak klorotik yang panjang dan sempit, basah, dan dalam beberapa hari menjadi coklat kemerahan.\nPembusukan dapat dimulai dari ujung tunas dan kemudian menyebar ke arah bawah. Inti akan berubah warna menjadi coklat kemerahan dan mengalami pengerutan, sehingga membentuk rongga di bagian tengah.",
+    "treatment": "Pengelolaan Setiap kali penyakit ini terdeteksi, tanaman yang terpengaruh harus dicabut dan dibakar.\n\nMenanam varietas yang tahan.\nPilih setts dari ladang yang sehat.\nHindari menanam inang kolateral di dekat ladang tebu."
+  },
+  {
+    "plant": "tebu_karat_tebu",
+    "tumbuhan": "Tebu",
+    "penyakit_id": "Karat Tebu",
+    "deskripsi": "Karat tebu adalah penyakit yang disebabkan oleh Puccinia erianthi. Gejala awalnya adalah bercak kuning kecil yang memanjang dan terlihat di kedua permukaan daun. Bercak-bercak ini akan memanjang, berubah warna menjadi coklat hingga coklat kemerahan atau merah kecoklatan, yang kemudian bergabung membentuk area nekrotik besar yang tidak teratur, sehingga memberikan penampilan berkarat pada daun. Hal ini akhirnya mengakibatkan kematian daun secara prematur.",
+    "treatment": "Metode Budidaya: Cara terbaik untuk mengendalikan karat tebu adalah dengan menanam varietas yang tahan. Gunakan varietas tahan seperti Co 91010 (Dhanush) dan Co 87025 (Kalyani). Daun yang terpengaruh harus segera dicabut dan dibakar. Tebu yang ditanam di ladang yang baru saja menerima aplikasi lumpur pabrik biasanya sangat rentan terhadap karat.\n\nMetode Kimia: Semprotkan Tridemorph 1,0 liter atau Mancozeb 2,0 kg/ha. Gunakan Dithane M 45 @ 2 g/liter untuk satu kali penyemprotan. Aplikasi fungisida triazole atau strobilurin atau pyraclostrobin @ 3 g/liter air."
+  },
+  {
+    "plant": "teh_bercak_daun_algal",
+    "tumbuhan": "Teh",
+    "penyakit_id": "Bercak Daun Algal",
+    "deskripsi": "Penyakit bercak daun algal yang disebabkan oleh alga Cephaleuros virescens ditandai dengan munculnya lesi bulat, terangkat, dan berwarna ungu hingga coklat kemerahan pada daun tanaman, terutama pada tanaman teh. Lesi ini dapat berkembang menjadi hijau keabu-abuan seiring waktu. Alga ini menghasilkan spora mikroskopis yang tersebar melalui angin atau hujan, dan dapat menyebar dari daun ke cabang dan buah. Kondisi seperti drainase tanah yang buruk, nutrisi yang tidak seimbang, serta suhu dan kelembapan tinggi meningkatkan risiko infeksi.",
+    "treatment": "Hindari stres pada tanaman.\nHindari lokasi yang drainasenya buruk.\nPromosikan sirkulasi udara yang baik di kanopi tanaman untuk mengurangi kelembapan dan durasi basah pada daun.\nPenghilangan bagian yang terinfeksi dengan penyemprotan campuran Bordeaux.\nPenghancuran bagian tanaman yang terkena.\nMeningkatkan status nutrisi tanah dengan aplikasi nitrogen, fosfor"
+  },
+  {
+    "plant": "teh_antraknosa",
+    "tumbuhan": "Teh",
+    "penyakit_id": "Antraknosa",
+    "deskripsi": "Penyakit antrachnose pada tanaman teh (Camellia sinensis) disebabkan oleh jamur Colletotrichum camelliae. Penyakit ini ditandai dengan munculnya lesi coklat yang berbentuk bulat pada daun, yang dapat berkembang menjadi area yang lebih besar dan menyebabkan kerusakan pada jaringan daun. Antrachnose merupakan salah satu penyakit paling serius dalam produksi teh global.",
+    "treatment": "Untuk mengelola penyakit antrachnose pada tanaman teh, beberapa langkah penanganan yang dapat dilakukan meliputi:\n1. Memilih varietas teh yang lebih tahan terhadap antrachnose, seperti Fairhope dan Small leaf.\n2. Meningkatkan sirkulasi udara di sekitar tanaman dan menghindari penanaman di lokasi dengan drainase buruk dapat mengurangi kelembapan yang mendukung perkembangan jamur.\n3. Penggunaan fungisida yang sesuai dapat membantu mengendalikan infeksi.\n4. Memastikan tanaman tidak mengalami stres, seperti kekurangan nutrisi atau kelembapan, serta melakukan pemupukan yang tepat dengan nitrogen, fosfor, dan kalium untuk memperkuat tanaman.\n5. Menghilangkan dan menghancurkan bagian tanaman yang terinfeksi dapat mencegah penyebaran penyakit lebih lanjut."
+  },
+  {
+    "plant": "teh_bercak_mata_burung",
+    "tumbuhan": "Teh",
+    "penyakit_id": "Bercak Mata Burung",
+    "deskripsi": "Bercak mata burung adalah penyakit jamur yang menyerang daun teh, menyebabkan rasa pahit pada teh dan mengurangi kualitas serta hasil tanaman teh. Penyakit ini menyebabkan munculnya bercak bulat berwarna coklat hingga hitam dengan tepi merah pada daun. Bercak tersebut biasanya berdiameter sekitar 10 mm dan memiliki titik yang lebih terang di tengahnya.",
+    "treatment": "Perhatikan pemangkasan, pemupukan, dan irigasi yang tepat untuk menjaga kesehatan tanaman.\nLakukan pemantauan secara teratur untuk mendeteksi dini serangan penyakit dan segera lakukan tindakan pengendalian.\nGunakan fungisida sistemik, seperti karbendazim dan thiophanate methyl untuk membunuh jamur penyebab penyakit dari dalam."
+  },
+  {
+    "plant": "teh_bercak_coklat",
+    "tumbuhan": "Teh",
+    "penyakit_id": "Bercak Coklat",
+    "deskripsi": "Penyakit ini disesbabkan oleh Collectrichum Camelliae dan merupakan salah satu penyakit yang paling umum dan signifikan yang mempengaruhi tanaman teh. Penyakit bercak coklat pada teh ditandai dengan gejala kabur yang terdiri dari lesi besar berwarna abu-abu-putih pada daun teh, dan tanaman yang terinfeksi sering menunjukkan kematian cabang-cabang muda, defoliasi, dan seluruh tanaman dari beberapa varietas sensitif bahkan dapat mati. Selain itu, Gejala awal juga dapat ditandai dengan lesi yang tampak basah pada daun muda, dan lesi tersebut berkembang dan meluas menjadi lesi nekrotik coklat tua yang besar, yang ditutupi dengan akervuli hitam",
+    "treatment": "Lakukan monitoring secara teratur untuk mendeteksi gejala awal penyakit, seperti bercak coklat pada daun atau tunas, sehingga dapat dilakukan tindakan segera.\nGunakan fungisida berbahan aktif seperti Mancozeb, Copper oxychloride, atau Chlorothalonil.\nLakukan penyemprotan secara berkala, terutama saat musim hujan atau ketika kelembapan tinggi.\nGunakan pupuk yang seimbang, terutama dengan kandungan kalium yang cukup, untuk meningkatkan daya tahan tanaman terhadap infeksi."
+  },
+  {
+    "plant": "teh_sehat",
+    "tumbuhan": "Teh",
+    "penyakit_id": "Sehat",
+    "deskripsi": "Tanaman teh yang sehat umumnya memiliki daun yang berwarna hijau segar, bentuknya bulat dan utuh tanpa adanya bercak atau lubang. Batang tanaman kokoh, berwarna cokelat kehijauan, dan bebas dari luka atau serangan hama. Pertumbuhan tunas baru merata dan segar. Akar tanaman kuat dan menyebar luas untuk menopang tanaman dan menyerap nutrisi.",
+    "treatment": "Untuk menjaga tanaman teh tetap sehat, gunakan bibit unggul, tanam di lahan berdrainase baik dengan ketinggian ideal, dan beri pupuk kaya nitrogen secara rutin. Pangkas daun tua untuk merangsang pertumbuhan tunas muda, kendalikan gulma, serta awasi hama/penyakit. Jaga kelembapan tanah tanpa genangan dan lakukan sanitasi kebun secara teratur."
+  },
+  {
+    "plant": "teh_bercak_daun_merah",
+    "tumbuhan": "Teh",
+    "penyakit_id": "Bercak daun merah",
+    "deskripsi": "Penyakit bercak daun merah disebabkan oleh serangan jamur Phyllosticta theicola dan merupakan salah satu penyakit yang sering menyerang tanaman teh. Jamur ini akan tumbuh dan berkembang pada permukaan daun teh, kemudian menembus masuk ke dalam jaringan daun sehingga menyebabkan munculnya bercak-bercak merah pada daun teh. Bercak-bercak ini awalnya berukuran kecil dan berbentuk bulat, namun seiring waktu bisa membesar dan bergabung sehingga membentuk area yang lebih luas.",
+    "treatment": "Penanganan:\nRutin membersihkan kebun dari gulma dan sisa-sisa tanaman yang terinfeksi.\nMemotong bagian tanaman yang sudah terinfeksi parah untuk mencegah penyebaran penyakit.\nMemotong bagian tanaman yang sudah terinfeksi parah untuk mencegah penyebaran penyakit.\nMemotong bagian tanaman yang sudah terinfeksi parah untuk mencegah penyebaran penyakit.\nPecegahan\nSelalu menjaga kebersihan kebun agar tidak menjadi tempat berkembang biak jamur.\nPemberian pupuk yang seimbang akan membuat tanaman teh menjadi lebih sehat dan tahan terhadap penyakit.\nRotasi tanaman dapat membantu memutus siklus hidup jamur penyebab penyakit."
+  },
+  {
+    "plant": "tomat_bercak_bakteri",
+    "tumbuhan": "Tomat",
+    "penyakit_id": "Bercak Bakteri",
+    "deskripsi": "Bercak Bakteri adalah penyakit pada tumbuhan Tomat yang ditandai dengan luka kecil berwarna hijau kekuningan pada daun muda yang menggulung. Semakin lama, luka akan membesar dan berubah warna menjadi merah kecoklatan lalu bagian tengah akan hancur (bolong).\n\nPenyakit ini disebabkan oleh bakteri bernama Xanthomonas yang merusak tomat, terutama yang berhabitat di area lembab. Penyebaran melalui cairan seperti air hujan atau air di sekitar tanaman, pantogen memasuki tanaman melalui pori-pori hingga luka yang terdapat pada tanaman.",
+    "treatment": "Gunakan bakterisida yang mengandung tembaga. Solusi lain jika tanaman sudah terinfeksi, buang dan bakar tanaman tersebut. Ganti tanaman dengan varietas yang sudah tahan dari penyakit, hindari irigasi pancur dan bercocok tanam saat daun basah."
+  },
+  {
+    "plant": "tomat_pembusukan_daun_muda",
+    "tumbuhan": "Tomat",
+    "penyakit_id": "Pembusukan Daun Muda",
+    "deskripsi": "Pembusukan pada Daun Muda adalah penyakit pada tumbuhan Tomat yang ditandai dengan adanya lesi pada daun bagian bawah berupa bintik-bintik kecil berwarna hitam kecoklatan yang dapat meluas. lesi dapat muncul di daun bagian atas dan pengguguran daun dapat terjadi di bagian bawah tanaman sehingga buah rentan terhadap sengatan matahari.\n\nPenyakit ini disebabkan oleh Spora Alternaria linariae terutama disebarkan oleh angin, arus udara, dan percikan air. Jamur ini bertahan hidup di sisa-sisa tanaman di tanah dan, di iklim yang lebih sejuk, dapat bertahan hidup pada tanaman tomat liar.",
+    "treatment": "Gunakan fungisida sebagai pencegahan, serta singkirkan tomat liar dapat mengurangi penyakit karena tomat tersebut dapat berfungsi sebagai sumber inokulum. Mempertahankan pemupukan yang memadai dan meningkatkan ketahanan tanaman dapat mengurangi kerentanan terhadap penyakit busuk daun dini."
+  },
+  {
+    "plant": "tomat_sehat",
+    "tumbuhan": "Tomat",
+    "penyakit_id": "Sehat",
+    "deskripsi": "Daun tomat sehat berwarna hijau pekat tanpa bintik kuning atau cokelat. Tepi daun tidak keriting atau kering, dan permukaannya terlihat bersih tanpa tanda serangan hama. Daun terasa agak tebal dengan struktur yang kenyal, dan tidak layu meski dalam cuaca panas.",
+    "treatment": "Gunakan tanah berpasir dengan drainase baik, siram pagi atau sore hari. Berikan pupuk kompos setiap 2 minggu. Pasang ajir untuk menopang batang. Lakukan penyemprotan pestisida alami untuk mencegah serangga. Pangkas daun tua di bagian bawah untuk sirkulasi udara yang baik."
+  },
+  {
+    "plant": "tomat_busuk_daun",
+    "tumbuhan": "Tomat",
+    "penyakit_id": "Busuk Daun",
+    "deskripsi": "Busuk Daun adalah penyakit pada tumbuhan Tomat yang ditandai dengan daun yang gugur, mengerut, dan berubah menjadi coklat. Lesi berwarna coklat juga dapat berkembang pada tangkai daun (petioles) dan batang. Bercak-bercak yang basah dan berubah warna menjadi coklat dapat muncul pada buah yang masih hijau, sedangkan buah yang sudah matang akan membusuk dengan cepat.\n\nPenyakit ini disebabkan oleh organisme mirip jamur (Oomycete) yang menyebar dengan cepat melalui dedaunan dan buah tomat pada cuaca hangat dan basah, yang menyebabkan keruntuhan dan pembusukan.",
+    "treatment": "Saat tanaman sudah terinfeksi, buang dan kubur tanaman tersebut. Jika hanya daun yang terinfeksi, segera petik daun untuk segera dibuang dan pastikan tanaman tomat terhindar dari kondisi yang lembab."
+  },
+  {
+    "plant": "tomat_bercak_daun_oleh_jamur",
+    "tumbuhan": "Tomat",
+    "penyakit_id": "Bercak Daun oleh Jamur",
+    "deskripsi": "Bercak Daun oleh Jamur adalah penyakit pada tumbuhan Tomat yang ditandai dengan bintik-bintik hijau muda pada daun yang menjadi nekrotik. Gejala penyakit pertama kali muncul pada daun bagian bawah tanaman tomat. Produksi buah mungkin tidak terlalu terhambat selama tahap awal penyakit, tetapi seiring waktu, keparahan penyakit meningkat dan terjadi pengguguran daun.\n\nPenyakit ini disebabkan oleh patogen jamur yang disebut Passalora fulva yang menyebar melalui angin atau percikan air. Jamur ini merupakan jamur ascomycota yang hidup pada daun tomat yang masih hidup kemudian hinggap dan memasuki stomata tanaman yang digunakan dalam pertukaran gas yang mengakibatkan layu, gugurnya daun, dan infeksi.",
+    "treatment": "Singkirkan tanaman yang sakit dan tanaman di sekitarnya untuk mencegah penyebaran patogen. Buang bahan tanaman yang terinfeksi dan sterilkan semua peralatan yang digunakan. Untuk mencegah atau membasmi patogen, gunakan fungisida."
+  },
+  {
+    "plant": "tomat_virus_mosaik",
+    "tumbuhan": "Tomat",
+    "penyakit_id": "Virus Mosaik",
+    "deskripsi": "Virus Mosaik adalah penyakit pada tumbuhan Tomat yang ditandai dengan bercak-bercak, dengan area hijau kekuningan dan hijau tua yang berselang-seling, yang terakhir seringkali tampak lebih tebal dan menonjol sehingga tampak seperti melepuh. Bercak kuning dan bintik nekrotik pada buah yang matang dan hijau dan mungkin ada pencoklatan internal pada dinding buah.\n\nPenyakit ini disebabkan oleh virus Tomato mosaic virus (ToMV) yang masuk melalui benih yang terinfeksi. Hanya sejumlah kecil bibit yang perlu terinfeksi agar virus dapat menyebar dengan cepat. Virus ini juga dapat menyebar melalui peralatan yang terkontaminasi",
+    "treatment": "Jika tanaman terinfeksi buang tanaman tersebut, karena tanaman tersebut dapat menjadi sumber infeksi bagi tanaman tomat sehat lainnya di dekatnya. Gunakan insektisida untuk mengurangi penularan kutu daun."
+  },
+  {
+    "plant": "tomat_bercak_daun_septoria",
+    "tumbuhan": "Tomat",
+    "penyakit_id": "Bercak Daun Septoria",
+    "deskripsi": "Bercak Daun Septoria adalah penyakit pada tumbuhan Tomat yang ditandai dengan bercak daun yang awalnya berbentuk agak melingkar dan pertama kali muncul di bagian bawah daun yang lebih tua di bagian bawah tanaman dengan tepi berwarna coklat tua dan bagian tengah berwarna abu-abu atau coklat muda. Bintik-bintik akan membesar dan dapat menyatu.\n\nPenyakit ini disebabkan oleh Jamur Septoria lycopersici  hidup pada sisa-sisa tanaman tomat yang jatuh. Bercak daun Septoria menyebar ke tanaman melalui percikan air dari tanah, serangga, manusia, dan peralatan yang bersentuhan dengan jamur. Kondisi hangat dan lembab merupakan kondisi yang paling cocok untuk berkembangnya bercak daun Septoria.",
+    "treatment": "Segera buang daun yang telah terinfeksi, pertimbangkan untuk menggunakan fungisida organik maupun kimia pada tumbuhan untuk membasmi spora yang telah berkembang pada tanaman."
+  },
+  {
+    "plant": "tomat_tungau_laba_laba",
+    "tumbuhan": "Tomat",
+    "penyakit_id": "Tungau Laba-Laba",
+    "deskripsi": "Tungau Laba-Laba adalah penyakit pada tumbuhan Tomat yang ditandai dengan daun menjadi kering dan berwarna coklat. Makan buah secara berlebihan menyebabkan bintik-bintik kekuningan di permukaan buah.\n\nPenyakit ini disebabkan oleh tungau laba-laba yang memakan dan bereproduksi di bagian bawah daun. Mereka memakan getah, memakan isi sel-sel tanaman. Tungau laba-laba juga menyukai tanaman yang stres, terutama karena air.",
+    "treatment": "Bersihkan tanaman yang terinfeksi dengan aliran air yang deras atau menggunakan sabun insektisida. Sulfur juga dapat digunakan sebagai pencegah tungau serta fungisida untuk penyakit dengan menaburkannya pada tanaman."
+  },
+  {
+    "plant": "tomat_bintik_target",
+    "tumbuhan": "Tomat",
+    "penyakit_id": "Bintik Target",
+    "deskripsi": "Bintik Target adalah penyakit pada tumbuhan Tomat yang ditandai dengan bercak-bercak kecil seukuran titik-titik kecil yang basah oleh air pada permukaan daun bagian atas. Bercak-bercak tersebut berkembang menjadi lesi nekrotik kecil yang memiliki bagian tengah berwarna coklat muda dan tepi berwarna gelap. Lesi dapat menyatu, membentuk area hawar daun yang besar pada anak daun, dan daun yang terinfeksi dapat gugur sebelum waktunya.\n\nPenyakit ini disebabkan oleh patogen jamur Corynespora cassiicola. Patogen bercak sasaran bertahan hidup di antara tanaman pada sisa-sisa tanaman dan tanaman inang alternatif, termasuk tanaman inang gulma. Jamur menghasilkan spora, yang disebarkan oleh angin dan hujan yang tertiup angin dan percikan air.",
+    "treatment": "Aplikasikan fungisida secara teratur, dimulai sebelum gejala muncul saat kondisi mendukung infeksi dan perkembangan penyakit. Buang bagian tanaman yang telah terinfeksi jamur penyebab Bintik Target."
+  },
+  {
+    "plant": "tomat_virus_daun_kuning_keriting",
+    "tumbuhan": "Tomat",
+    "penyakit_id": "Virus Daun Kuning Keriting",
+    "deskripsi": "Virus Daun Kuning Keriting adalah penyakit pada tumbuhan Tomat yang ditandai dengan daun-daun kecil yang menguning di antara urat daun. Daun juga menggulung ke atas dan ke arah tengah daun. Pada bibit, tunas menjadi pendek dan membuat tanaman muda tampak lebat. Pada tanaman dewasa, hanya pertumbuhan baru yang dihasilkan setelah infeksi yang berkurang ukurannya.\n\nPenyakit ini disebabkan oleh Virus TYLCV ditularkan dari tanaman yang sakit ke tanaman yang sehat oleh lalat putih daun perak, yang memakan berbagai macam inang. Kadar TYLCV dapat dikaitkan dengan ukuran populasi vektornya, lalat putih daun perak. Namun belum diketahui apakah lalat putih asli dapat menyebarkan virus.",
+    "treatment": "Tanaman yang terinfeksi harus dibuang ke tempat pembuangan sampah atau dibakar. Tanam kultivar yang tahan merupakan pilihan yang ekonomis untuk mengelola penyakit ini. Kelola populasi lalat putih melibatkan penggunaan pestisida dan praktik kultural."
+  },
+  {
+    "plant": "gandum_karat_daun",
+    "tumbuhan": "Gandum",
+    "penyakit_id": "Karat Daun",
+    "deskripsi": "Karat Daun adalah penyakit pada tumbuhan Gandum yang ditandai dengan Pustula berwarna jingga hingga cokelat sering kali terbentuk pada musim gugur pada tanaman yang ditanam lebih awal. Pustula karat cokelat cenderung tersebar secara acak, gejalanya sering terlihat pada daun, tetapi dapat muncul pada batang, pelepah daun, dan tongkol jika infeksinya parah\n\nPenyakit ini disebabkan oleh jamur Puccinia spp.. Jamur ini hanya dapat tumbuh dan bertahan hidup pada jaringan daun hidup. Jamur ini menyebar melalui spora yang terbawa udara. Teliospora berwarna gelap dapat berkembang pada jaringan tanaman yang sakit.",
+    "treatment": "Pemusnahan tanaman liar membantu mencegah penularan penyakit, karena tanaman liar bertindak sebagai jembatan hijau dari satu musim ke musim berikutnya. Jika tanaman telah terinfeksi, gunakan fungisida untuk membasmi hama."
+  },
+  {
+    "plant": "gandum_sehat",
+    "tumbuhan": "Gandum",
+    "penyakit_id": "Sehat",
+    "deskripsi": "Daun gandum sehat berwarna hijau cerah dengan permukaan daun yang licin. Daunnya tumbuh lurus, tanpa bercak kuning atau cokelat. Tidak ada keriting pada tepi daun, dan daun terlihat segar meski saat terkena sinar matahari langsung. Tidak ada tanda infeksi jamur atau serangan serangga.",
+    "treatment": "Tanam di tanah dengan pH netral, siram secara rutin saat pagi. Berikan pupuk nitrogen secukupnya. Jaga kelembapan tanah tanpa membuatnya tergenang. Lakukan rotasi tanaman untuk mencegah hama. Pantau tanaman secara berkala dan segera cabut gulma atau daun yang terinfeksi penyakit."
+  },
+  {
+    "plant": "gandum_bercak_septoria",
+    "tumbuhan": "Gandum",
+    "penyakit_id": "Bercak Septoria",
+    "deskripsi": "Bercak Septoria adalah penyakit pada tumbuhan Gandum yang ditandai dengan bercak-bercak abu-abu pucat hingga coklat tua pada daun, dan pada tingkat yang lebih rendah pada batang dan kepala. Ciri khas bercak Septoria tritici adalah adanya tubuh buah berwarna hitam (pycnidia) di dalam bercak-bercak tersebut.\n\nPenyakit ini disebabkan oleh jamur Mycosphaerella graminicola (tahap aseksual Zymoseptoria tritici, sinonim Septoria tritici). Kombinasi angin dan hujan memberikan kondisi yang paling menguntungkan bagi penyebaran penyakit ini di dalam tanaman.",
+    "treatment": "Pilih varietas tanaman yang tahan dari penyakit, jika tanaman terinfeksi gunakan fungisida untuk membasmi penyebab bercak Septoria."
+  },
+  {
+    "plant": "gandum_karat_garis_kuning",
+    "tumbuhan": "Gandum",
+    "penyakit_id": "Karat Garis Kuning",
+    "deskripsi": "Karat Garis Kuning adalah penyakit pada tumbuhan Gandum yang ditandai dengan deretan pustula berwarna jingga kekuningan pada daun tanaman dewasa. Daun yang terinfeksi dapat dengan cepat menjadi klorosis dan kemudian nekrosis. Pada serangan yang parah, infeksi karat kuning pada tongkol dapat terjadi, yang mengakibatkan terbentuknya massa spora di antara bulir dan gluma.\n\nPenyakit ini disebabkan oleh jamur Puccinia striiformis. Spora ini menyebar melalui angin atau kontak daun ke daun. Cuaca dingin dan lembab, disertai embun atau hujan di malam hari, menyediakan kondisi optimal untuk perkembangan penyakit.",
+    "treatment": "Penggunaan Fungisida dapat memberikan pengendalian karat kuning yang sangat efektif. Patogen tersebut yang tidak terlalu rentan menjadi resisten terhadap fungisida."
+  }
+]
