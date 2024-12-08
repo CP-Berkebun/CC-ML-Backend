@@ -1,18 +1,13 @@
-# Gunakan base image Python
-FROM python:3.11-slim
+FROM python:3.9-slim
 
-# Set working directory di dalam container
 WORKDIR /app
 
-# Salin semua file ke container
 COPY . /app
 
-# Install dependencies
 RUN pip install --no-cache-dir --upgrade pip
-RUN pip install --no-cache-dir -r requirements.txt
+COPY requirements.txt /app/requirements.txt
+RUN pip install --no-cache-dir -r /app/requirements.txt
 
-# Expose port untuk aplikasi FastAPI
-EXPOSE 8000
+EXPOSE 8080
 
-# Jalankan aplikasi menggunakan Uvicorn
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8080"]
