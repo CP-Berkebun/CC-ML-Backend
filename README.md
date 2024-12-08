@@ -12,7 +12,6 @@ CC-ML-Backend/
 │   ├── model.h5        # .h5 model file
 │
 ├── Dockerfile          # Configuration for Docker deployment
-├── disease.json        # Disease Data
 ├── main.py             # FastApi application and endpoint logic
 ├── requirements.txt    # Python dependencies
 ├── README.md           # Project documentation
@@ -46,8 +45,7 @@ git clone https://github.com/CP-Berkebun/CC-ML-Backend.git
 pip install -r requirements.txt
 ```
 
-3. Add the .h5 model file to the model/ directory.
-4. Start the application:
+3. Start the application:
 
 ```plaintext
 uvicorn main:app --reload
